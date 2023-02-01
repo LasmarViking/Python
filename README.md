@@ -1,2 +1,2 @@
 # Python
-Alguns projetos de estudos em Python
+Alguns projetos de estudos em Python3
